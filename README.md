@@ -22,3 +22,4 @@ cmake .. -G "Visual Studio 15"
 ## Library
 
 I used awesome [raylib](https://github.com/raysan5/raylib) and [raygui](https://github.com/raysan5/raygui).
+Template Cmake configuration borrowed from [here, from SasLuca](https://github.com/SasLuca/raylib-cmake-template)

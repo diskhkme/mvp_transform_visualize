@@ -1,7 +1,7 @@
 # mvp_transform_visualize
 Understanding MVP(Model, View, Projection) transformation for 3D computer graphics by visual application.
 
-![](capture.jpg)
+![](capture.JPG)
 
 - Right Click+Drag to rotate the camera
 - Wheel to zoom in/out
